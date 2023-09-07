@@ -1,0 +1,7 @@
+@font-face {
+  font-family: Vegan;
+  src: url(../font/vegan/VeganStylePersonalUse-5Y58.ttf);
+}
+.brand {
+  font-family: Vegan;
+}

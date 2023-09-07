@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Vegan;
+  src: url(../font/vegan/VeganStylePersonalUse-5Y58.ttf);
+}
+body {
+  background-color: red;
+}
+.judul {
+  font-family: Vegan;
+  font-size: 25px;
+}
